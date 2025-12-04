@@ -7,3 +7,4 @@ Lucrari in figma :
 2) Animație https://www.figma.com/proto/NzHxyelPSlEcDwyXA0XBCM/Untitled?node-id=1-2&t=9lm7CxLhmcbUAt9v-1
 3) Prezenatre in figma  https://www.figma.com/design/Z0Fhrd8LF0HR8WDVzshK9j/Slide-1?node-id=0-1&t=i0mXIL53PiwacBnJ-1
    
+<img width="895" height="671" alt="image" src="https://github.com/user-attachments/assets/cce15cd2-b9d4-41b0-aeb8-ed292a1c4a04" />
