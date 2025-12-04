@@ -1,7 +1,9 @@
 # Laborator_Aplicatii_Desktop_Andrian
 Lucrari in figma :
-
+# Scopul
+Sarcini de laborator 
 ## Lincuri catre lucrari
+# Autor Balaban Andrian 
 
 1) Cardul  https://www.figma.com/design/dJSx8qk8ybL321149FbwYM/Untitled?node-id=0-1&t=3nJaCzllEvTMVVdC-1
 2) Animație https://www.figma.com/proto/NzHxyelPSlEcDwyXA0XBCM/Untitled?node-id=1-2&t=9lm7CxLhmcbUAt9v-1
