@@ -1,4 +1,4 @@
-# Laborator_-Aplicatii_Desktop_Andrian
+# Laborator_Aplicatii_Desktop_Andrian
 Lucrari in figma :
 
 ## Lincuri catre lucrari
